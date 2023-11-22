@@ -1,0 +1,130 @@
+Nav.Link{
+    color: blue;
+}
+.Footer{
+    background-color: rgb(13,110,253);
+    color: white;
+   padding: 2rem 0;
+}
+
+.footerheader{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+a{
+    color: red;
+}
+.fa-brands{
+    margin-right: 15px;
+}
+.fa-solid{
+margin-right: 5px;
+}
+.last-footer{
+    background-color: black;
+    text-align: center;
+    padding: 0.5rem 0;
+
+}
+.last-footer p{
+   margin-bottom: 0;
+   font-size: 1.2rem;
+   font-weight: 700;
+   color: white;
+
+}
+.ft-1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.ft-2{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.Carouselimages{
+    width: fit-content;
+}
+.textAfterCarousel{
+    background-color: rgb(99, 99, 99);
+    color: white;
+    text-align: center;
+    padding: 0.5rem 0;
+
+}
+.ourServicesText{
+    font-family: serif;
+    font-weight: 100;
+}
+.Ourservices-lists{
+    background-color: rgb(147,187,210);
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: left;
+   
+}
+li{
+    margin-bottom: 5px;
+}
+.Ourservices-Paragraph{
+    padding: 3px;
+    font-style: italic;
+}
+.Dr-Soje-container{
+ border-style: double;
+    padding: 10px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.aboutus-images{
+    border-style: double;
+    margin-bottom: 10px;
+    width: 390px;
+    margin-left: 5px;
+  
+}
+.aboutus-h3{
+padding: 5px;
+text-align: center;
+font-weight: 300;
+}
+.aboutus-P{
+    padding: 5px;
+   font-style: italic;
+}
+.navbarlogo{
+    width: 35px;
+}
+  
+  /* @media screen and (min-width: 688px) {
+    .Carouselimages{
+        width: 688px !important;
+    }
+  }
+
+  @media screen and (min-width: 768px) {
+    .Carouselimages{
+        width: 768px !important;
+    }
+  }
+  @media screen and (min-width: 800px) {
+    .Carouselimages{
+        width: 800px !important;
+    }
+  }
+  @media screen and (min-width: 1024px) {
+    .Carouselimages{
+        width: 1024px !important;
+    }
+  }
+  @media screen and (min-width: 1280px) {
+    .Carouselimages{
+        width: 1280px !important; 
+    }
+  }
+  @media screen and (min-width: 1440px) {
+    .Carouselimages{
+        width: 1440px !important; 
+    }
+  } */
